@@ -6,8 +6,7 @@
 
 <h5 align="center">My Youtube channel</h5>
 
-
-<img src="/AsmrProg-YT/AsmrProg-YT/raw/master/assets/youtube.svg" alt="YouTube" style="max-width: 100%;">
+<a href="https://www.youtube.com/@AsmrProg" rel="nofollow"><img src="/AsmrProg-YT/AsmrProg-YT/raw/master/assets/youtube.svg" alt="YouTube" style="max-width: 100%;"></a>
 
 
 <h5 align="center">Technologies that I use</h5>
